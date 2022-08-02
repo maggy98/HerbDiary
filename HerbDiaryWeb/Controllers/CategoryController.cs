@@ -31,7 +31,7 @@ namespace HerbDiaryWeb.Controllers
         {
             if (obj.Name == obj.DisplayOrder.ToString())
             {
-                ModelState.AddModelError("CustomerError", "The DisplayOrder cannot be exacly match the Name")
+                ModelState.AddModelError("name", "The DisplayOrder cannot be exacly match the Name");
             }
             if (ModelState.IsValid)
             {
