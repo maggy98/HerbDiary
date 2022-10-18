@@ -1,7 +1,7 @@
 # HerbDiary 
 *App still in progress*
 
-An application that helps user to organise their information about herbs.
+An application that helps user to organise their information about herbs. *For now*, user can creat category of herbs. In database every category has id, name, displey order and date of creation.
 
 # Skreenshots
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/62389300/182406656-6690b177-6cb7-47d3-9008-2dafddfea235.PNG">
@@ -12,6 +12,8 @@ An application that helps user to organise their information about herbs.
 
 ![5](https://user-images.githubusercontent.com/62389300/182406800-d57f7d4a-82ed-4455-8547-ca4c38828bf3.png)
 
+# An example view from a SQL database
+![image](https://user-images.githubusercontent.com/62389300/196497113-e58aef65-fc1a-493a-ab80-35ee7f65db01.png)
 
 # Technologies:
 - C#
