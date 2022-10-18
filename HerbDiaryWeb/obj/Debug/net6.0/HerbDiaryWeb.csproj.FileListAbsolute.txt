@@ -58,7 +58,6 @@ C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\MessagePack.
 C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\MessagePack.Annotations.dll
 C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\Microsoft.Build.Locator.dll
 C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -259,3 +258,6 @@ C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\runtimes\uni
 C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\windy\source\repos\HerbDiary\HerbDiaryWeb\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
