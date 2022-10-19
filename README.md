@@ -1,7 +1,7 @@
 # HerbDiary 
 *App still in progress*
 
-An application that helps user to organise their information about herbs. *For now*, user can creat category of herbs. In database every category has id, name, displey order and date of creation. Every time It is possible to edit the category and displey number. Each time a new category is created the creation time is recorded. In case of editing, the time is also updated.
+An application that helps user to organise their information about herbs. *For now*, user can creat category of herbs. In database every category has id, name, displey order and date of creation. Every time It is possible to edit the category and display number. Each time a new category is created the creation time is recorded. In case of editing, the time is also updated.
 
 # Skreenshots
 ![image](https://user-images.githubusercontent.com/62389300/196666322-afbaf2f0-6cb8-41cc-87f8-c6713b33ee02.png)
